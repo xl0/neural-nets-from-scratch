@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "neural-nets-from-scratch"
+  site-url: "https://xl0.github.io/neural-nets-from-scratch"
+  description: "Neural Networks From Scratch"
+  repo-branch: main
+  repo-url: "https://github.com/xl0/neural-nets-from-scratch"
